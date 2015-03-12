@@ -26,7 +26,8 @@
     "_": true,
     "google": true,
     "mixpanel": true,
-    "ionic": true
+    "ionic": true,
+    "cordova": true
   },
   "predef": [ // Extra globals.
     "define",
