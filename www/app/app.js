@@ -1,6 +1,8 @@
 angular.module('app', [
   'ionic',
-  'app.main'
+  'app.main',
+  'app.auth',
+  'app.services'
 ])
 
 .config(function($stateProvider, $urlRouterProvider) {
